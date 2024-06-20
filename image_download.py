@@ -25,7 +25,7 @@ def download_images(start, end, base_url, base_path):
 # Parameters
 start_image_number = 6667
 end_image_number = 15488
-base_url = "http://erp.kpriet.ac.in:8181/erpoperations/ACA/Masters/aca_studentimage.ashx"
+base_url = "<url>"
 download_path = "/Users/jevaakharthik/Development/Students_iamge"
 
 download_images(start_image_number, end_image_number, base_url, download_path)
